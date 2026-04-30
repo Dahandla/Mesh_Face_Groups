@@ -66,3 +66,5 @@ The Free edition is a separate source package. Pro feature code is not included 
 
 ## Videos
 https://www.youtube.com/playlist?list=PLNkqxVhFvsiR06ETzBniApZv5p_eY1ENm
+
+https://saraintelai.gumroad.com/l/rxawge
