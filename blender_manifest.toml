@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "mesh_face_groups_free"
+version = "1.3.0"
+name = "Mesh Face Groups Free"
+tagline = "Free colored Meshmixer-style face-group preview and cleanup"
+maintainer = "C:\\code>_Studio"
+type = "add-on"
+
+blender_version_min = "4.5.0"
+license = ["LicenseRef-Free-Evaluation"]
+tags = ["Mesh", "Modeling", "3D View"]
+
+[permissions]
+files = "Install and load the local Blender add-on files"
