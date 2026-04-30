@@ -5,7 +5,7 @@ Mesh Face Groups Free is the no-cost preview edition of the Mesh Face Groups Ble
 This Free edition does **not** contain the Pro implementation for separated objects, watertight parts, shell thickness, exploded views, or batch/output workflows.
 
 
-![image](https://github.com/Dahandla/Mesh_Face_Groups/blob/ca2d819fbeb1507ba0553eade68e2f2b4607cfd6/Images/Screenshot%202026-04-29%20112717.png)
+![image](https://github.com/Dahandla/Mesh_Face_Groups/blob/298a3ba7669853890e407ce577ed128fbdb31cfd/Images/Screenshot%202026-04-30%20133058.png)
 
 ## Included In Free
 
@@ -23,6 +23,8 @@ This Free edition does **not** contain the Pro implementation for separated obje
 Mesh Face Groups Free is provided as is. Read `AS_IS_DISCLAIMER.md` before installing or distributing the add-on.
 
 ## Pro Features Not Included
+
+![image](https://github.com/Dahandla/Mesh_Face_Groups/blob/ca2d819fbeb1507ba0553eade68e2f2b4607cfd6/Images/Screenshot%202026-04-29%20112717.png)
 
 - Separate groups into new objects.
 - Make separated parts watertight.
