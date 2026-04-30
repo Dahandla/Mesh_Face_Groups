@@ -1,6 +1,7 @@
 # Mesh Face Groups Free Quickstart
 
-https://github.com/Dahandla/Mesh_Face_Groups/blob/0e26df823d34d1e4a4a239181360bb84c66f4d8c/Mesh_Face_Groups.png
+
+![image](https://github.com/Dahandla/Mesh_Face_Groups/blob/0e26df823d34d1e4a4a239181360bb84c66f4d8c/Mesh_Face_Groups.png)
 
 1. Install `dist/mesh_face_groups_free_v1.3.0.zip` in Blender.
 2. Enable `Mesh Face Groups Free`.
