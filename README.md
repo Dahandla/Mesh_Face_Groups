@@ -65,6 +65,7 @@ Upgrade to Mesh Face Groups Pro when you need to convert colored groups into act
 The Free edition is a separate source package. Pro feature code is not included in this package.
 
 ## Videos
-https://www.youtube.com/playlist?list=PLNkqxVhFvsiR06ETzBniApZv5p_eY1ENm
+https://www.youtube.com/playlist?list=PLNkqxVhFvsiR06ETzBniApZv5p_eY1ENm 
 
+## Get It Here:
 https://saraintelai.gumroad.com/l/rxawge
