@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mesh Face Groups — Blender Add-on</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f0f12;
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+    padding: 60px 0;
+}
+
+h1, h2, h3 {
+    margin-bottom: 20px;
+}
+
+.hero {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero-text {
+    flex: 1;
+}
+
+.hero h1 {
+    font-size: 2.8em;
+}
+
+.hero p {
+    color: #bbb;
+    font-size: 1.2em;
+}
+
+.hero-video {
+    flex: 1;
+    background: #1c1c22;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    margin-right: 10px;
+    margin-top: 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-free {
+    background: #2ecc71;
+    color: black;
+}
+
+.btn-pro {
+    background: #e74c3c;
+    color: white;
+}
+
+.section {
+    border-top: 1px solid #222;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+.card {
+    background: #1c1c22;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.highlight {
+    background: #15151a;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+    color: #777;
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="container hero">
+    <div class="hero-text">
+        <h1>AI can generate meshes.<br>This makes them usable.</h1>
+        <p>Turn messy AI-generated or scanned meshes into clean, separated, production-ready parts — directly in Blender.</p>
+        
+        <a href="https://saraintelai.gumroad.com/l/rxawge" target="_blank" rel="noopener noreferrer" class="button btn-free">Download Free</a>
+        <a href="https://saraintelai.gumroad.com/l/wbleoe" target="_blank" rel="noopener noreferrer" class="button btn-pro">Get Pro</a>
+
+        <p style="margin-top:15px; font-size:0.9em; color:#777;">
+            Blender 4.5+ • No dependencies • Works with any mesh
+        </p>
+    </div>
+
+    <div class="hero-video">
+        <a href="https://www.youtube.com/watch?v=qNnYcDEqpYU" target="_blank" rel="noopener noreferrer" class="button btn-free">Watch Demo Video</a>
+    </div>
+</div>
+
+<!-- PROBLEM -->
+<div class="container section">
+    <h2>AI tools generate meshes fast — but they don’t make them usable.</h2>
+    <div class="grid">
+        <div class="card">Fused geometry</div>
+        <div class="card">Hard manual selection</div>
+        <div class="card">Broken splits</div>
+        <div class="card">Time-consuming cleanup</div>
+    </div>
+</div>
+
+<!-- SOLUTION -->
+<div class="container section">
+    <h2>Fix your mesh in one pass</h2>
+    <div class="highlight">
+        Import → Preview → Clean → Extract → Export
+    </div>
+</div>
+
+<!-- FEATURES -->
+<div class="container section">
+    <h2>Features</h2>
+
+    <div class="grid">
+        <div class="card">
+            <h3>Free</h3>
+            <ul>
+                <li>Live face group preview</li>
+                <li>Angle-based segmentation</li>
+                <li>Small island cleanup</li>
+                <li>Floating island removal</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h3>Pro</h3>
+            <ul>
+                <li>Separate groups into objects</li>
+                <li>Watertight parts</li>
+                <li>Shell thickness</li>
+                <li>Exploded views</li>
+                <li>Batch export</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- VALUE -->
+<div class="container section">
+    <h2>Save Hours of Work</h2>
+    <div class="highlight">
+        Manual: 20–60 minutes<br><br>
+        With Mesh Face Groups: 10–30 seconds
+    </div>
+</div>
+
+<!-- USE CASES -->
+<div class="container section">
+    <h2>Built For</h2>
+    <div class="grid">
+        <div class="card">3D Printing</div>
+        <div class="card">Game Development</div>
+        <div class="card">Kitbashing</div>
+        <div class="card">AI Mesh Cleanup</div>
+    </div>
+</div>
+
+<!-- CTA -->
+<div class="container section" style="text-align:center;">
+    <h2>Stop fighting your meshes</h2>
+    <a href="https://saraintelai.gumroad.com/l/rxawge" target="_blank" rel="noopener noreferrer" class="button btn-free">Download Free</a>
+    <a href="https://saraintelai.gumroad.com/l/wbleoe" target="_blank" rel="noopener noreferrer" class="button btn-pro">Get Pro</a>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+    Mesh Face Groups — Blender Add-on
+</div>
+
+</body>
+</html>
